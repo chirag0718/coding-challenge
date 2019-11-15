@@ -4,17 +4,17 @@ This page consists coding challenge for Backend Engineer role at MyDoc.
 # Purpose
 Aim of this test is three fold,
 
-- evaluate your coding abilities 
-- judge your technical experince
-- understand how you design a solution
+- Evaluate your coding abilities 
+- Judge your technical experince
+- Understand how you design a solution
 
 # How you will be judged
 You will be scored on,
 
-- coding standard, comments and style
-- unit testing strategy
-- overall solution design
-- appropriate use of source control
+- Coding standard, comments and style
+- Unit testing strategy
+- Overall solution design
+- Appropriate use of source control
 
 # Challenge
 
