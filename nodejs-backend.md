@@ -87,7 +87,7 @@ Response
 - Use NodeJS for scripting the backend.
 - Deploy this to a server and give us the URL.
 - Push the code to a public git repository and give us the URL.
-- You are free to use any open source database.
+- You are free to use any open source database or library.
 
 ### A good submission will have the following characteristics
 - Clean and extendable code
