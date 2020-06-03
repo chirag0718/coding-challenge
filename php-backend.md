@@ -160,6 +160,16 @@ Response
 {"value": null}
 ```
 
+## Error Handling
+
+All errors must return the appropriate HTTP status code. 
+Error messages should be returned with the following format.
+
+```json
+{"error":  "The error message"}
+```
+
+
 ## Guidelines
 
 - Use Laravel for building the API
@@ -168,6 +178,7 @@ Response
   - Your repository should include the following
     - Source Code
     - Documentation
+    - Test Cases (Along with instructions on how to execute the test cases)
 - You are free to use any open source database or library.
 
 ### A good submission will have the following characteristics
