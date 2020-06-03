@@ -181,12 +181,6 @@ Error messages should be returned with the following format.
     - Test Cases (Along with instructions on how to execute the test cases)
 - You are free to use any open source database or library.
 
-### A good submission will have the following characteristics
-- Clean and extendable code
-- Handle a wide variety of edge cases
-- Not break under a reasonable load
-- Show the ability to write testable code
-
 ## Note
 We are NOT judging for algorithmic brilliance or cool one liners. We want to see if you can write production quality code. So please build this assuming you are building a production quality service.
 
