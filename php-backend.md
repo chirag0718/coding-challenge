@@ -173,6 +173,7 @@ Error messages should be returned with the following format.
 ## Guidelines
 
 - Use Laravel for building the API
+- Use PHP 7.2
 - Deploy this to a server and give us the URL.
 - Push the code to a public git repository and give us the URL.
   - Your repository should include the following
