@@ -178,7 +178,7 @@ Error messages should be returned with the following format.
 - Push the code to a public git repository and give us the URL.
   - Your repository should include the following
     - Source Code
-    - Documentation
+    - Documentation (Include the hostname where the code is hosted)
     - Test Cases (Along with instructions on how to execute the test cases)
 - You are free to use any open source database or library.
 
